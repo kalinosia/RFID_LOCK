@@ -3,7 +3,7 @@ My first project witch arduino from my university if technology.  These were pra
 I had no idea about programing. Code C++ from Internet was sort of magical spell to me, but when I looked at it longer, I understood almost everything and I could add more from myself. So, it's easy but is sentimental (very good vibes).
 
 ## Connecions
-<img src="RFID.JPG">
+<img src="RFID.jpg">
 
 ## ARDUINO
 ```
