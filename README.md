@@ -103,9 +103,12 @@ void loop()
              }
              /*here is easy way- just sum of numbers*/
              /*I haveone cart so it's esy easy*/
-             if (caly == 464 /*|| caly == 111*/)
+           /*  if (caly == 464 /*|| caly == 111*/)*/
              /*alternaty             wny kod*/
-{if(
+             
+             if(serNum==147 && serNum1==7 && serNum2==145 && serNum3 ==85 && serNum4==80)
+             
+{
              //buzzer
              analogWrite(3,10);
              delay(500);
@@ -130,6 +133,7 @@ void loop()
     }
     
     rfid.halt();
+delay(3000);
 }
 ```
 It's very simple way to detect good rfid, probably I change it to right way.
